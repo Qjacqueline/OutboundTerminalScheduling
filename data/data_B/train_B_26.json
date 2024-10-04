@@ -1,0 +1,1886 @@
+{
+    "quay_cranes": [
+        {
+            "idx": "QC1",
+            "missions": {
+                "M1": {
+                    "idx": "M1",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "A2",
+                        17,
+                        0
+                    ],
+                    "yard_crane_process_time": 34.579816763044896,
+                    "locked": true,
+                    "release_time": 0,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 103.09377722046682,
+                    "intersection_process_time": 45.12729786636915
+                },
+                "M2": {
+                    "idx": "M2",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "B1",
+                        22,
+                        2
+                    ],
+                    "yard_crane_process_time": 34.98926315016426,
+                    "locked": true,
+                    "release_time": 120,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 117.95722973266228,
+                    "intersection_process_time": 45.91443046391517
+                },
+                "M3": {
+                    "idx": "M3",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "B1",
+                        4,
+                        4
+                    ],
+                    "yard_crane_process_time": 27.753495881210494,
+                    "locked": true,
+                    "release_time": 240,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 104.89317064632166,
+                    "intersection_process_time": 29.606181765384353
+                },
+                "M4": {
+                    "idx": "M4",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "B1",
+                        14,
+                        1
+                    ],
+                    "yard_crane_process_time": 25.872343938265967,
+                    "locked": true,
+                    "release_time": 360,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 108.19935399815307,
+                    "intersection_process_time": 53.80126875372142
+                },
+                "M5": {
+                    "idx": "M5",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "A2",
+                        18,
+                        5
+                    ],
+                    "yard_crane_process_time": 25.805484398376496,
+                    "locked": true,
+                    "release_time": 480,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 117.49803103776296,
+                    "intersection_process_time": 40.34546062160358
+                },
+                "M6": {
+                    "idx": "M6",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "B3",
+                        29,
+                        2
+                    ],
+                    "yard_crane_process_time": 34.86576902572344,
+                    "locked": true,
+                    "release_time": 600,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 108.89474799169955,
+                    "intersection_process_time": 39.49831322645338
+                },
+                "M7": {
+                    "idx": "M7",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "B3",
+                        23,
+                        2
+                    ],
+                    "yard_crane_process_time": 27.33470243909423,
+                    "locked": true,
+                    "release_time": 720,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 108.79946197185883,
+                    "intersection_process_time": 38.85875392716541
+                },
+                "M8": {
+                    "idx": "M8",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "B1",
+                        28,
+                        7
+                    ],
+                    "yard_crane_process_time": 32.38762805340187,
+                    "locked": true,
+                    "release_time": 840,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 103.5507188560156,
+                    "intersection_process_time": 57.427937006645266
+                },
+                "M9": {
+                    "idx": "M9",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "A1",
+                        22,
+                        0
+                    ],
+                    "yard_crane_process_time": 28.261580087702832,
+                    "locked": true,
+                    "release_time": 960,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 118.71677219273316,
+                    "intersection_process_time": 41.83648499336945
+                },
+                "M10": {
+                    "idx": "M10",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "A2",
+                        17,
+                        4
+                    ],
+                    "yard_crane_process_time": 26.127146613740482,
+                    "locked": true,
+                    "release_time": 1080,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 132.28494608222044,
+                    "intersection_process_time": 50.134591624290294
+                },
+                "M11": {
+                    "idx": "M11",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "B1",
+                        27,
+                        1
+                    ],
+                    "yard_crane_process_time": 34.41918439243559,
+                    "locked": true,
+                    "release_time": 1200,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 124.96216123505,
+                    "intersection_process_time": 52.408149453698734
+                },
+                "M12": {
+                    "idx": "M12",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "A1",
+                        25,
+                        6
+                    ],
+                    "yard_crane_process_time": 26.48752223503355,
+                    "locked": true,
+                    "release_time": 1320,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 124.68861659360365,
+                    "intersection_process_time": 22.041290586267802
+                },
+                "M13": {
+                    "idx": "M13",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "B3",
+                        24,
+                        4
+                    ],
+                    "yard_crane_process_time": 30.84581651626993,
+                    "locked": true,
+                    "release_time": 1440,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 110.01642015852298,
+                    "intersection_process_time": 58.14310010003418
+                },
+                "M14": {
+                    "idx": "M14",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "A2",
+                        9,
+                        7
+                    ],
+                    "yard_crane_process_time": 34.45724426923093,
+                    "locked": true,
+                    "release_time": 1560,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 138.9510692811531,
+                    "intersection_process_time": 57.87681034515274
+                },
+                "M15": {
+                    "idx": "M15",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "A2",
+                        25,
+                        4
+                    ],
+                    "yard_crane_process_time": 32.056427643326586,
+                    "locked": true,
+                    "release_time": 1680,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 113.98291077478784,
+                    "intersection_process_time": 37.48723888441861
+                },
+                "M16": {
+                    "idx": "M16",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "A2",
+                        6,
+                        0
+                    ],
+                    "yard_crane_process_time": 25.511789939946155,
+                    "locked": true,
+                    "release_time": 1800,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 127.1194472608877,
+                    "intersection_process_time": 34.87723169883248
+                },
+                "M17": {
+                    "idx": "M17",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "B1",
+                        1,
+                        6
+                    ],
+                    "yard_crane_process_time": 28.523017563301025,
+                    "locked": true,
+                    "release_time": 1920,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 103.41133619644789,
+                    "intersection_process_time": 29.151994557556886
+                },
+                "M18": {
+                    "idx": "M18",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "A1",
+                        18,
+                        0
+                    ],
+                    "yard_crane_process_time": 31.55139040925046,
+                    "locked": true,
+                    "release_time": 2040,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 93.55617343549372,
+                    "intersection_process_time": 42.381586555015005
+                },
+                "M19": {
+                    "idx": "M19",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "A2",
+                        3,
+                        1
+                    ],
+                    "yard_crane_process_time": 28.523628997241147,
+                    "locked": true,
+                    "release_time": 2160,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 131.0358068955804,
+                    "intersection_process_time": 33.51895033214209
+                },
+                "M20": {
+                    "idx": "M20",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "A1",
+                        23,
+                        2
+                    ],
+                    "yard_crane_process_time": 26.232767968514395,
+                    "locked": true,
+                    "release_time": 2280,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 120.0478157874845,
+                    "intersection_process_time": 27.841691714802714
+                },
+                "M21": {
+                    "idx": "M21",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "A1",
+                        19,
+                        5
+                    ],
+                    "yard_crane_process_time": 29.17981454994474,
+                    "locked": true,
+                    "release_time": 2400,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 121.83922396993964,
+                    "intersection_process_time": 57.26191867453303
+                },
+                "M22": {
+                    "idx": "M22",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "A2",
+                        3,
+                        5
+                    ],
+                    "yard_crane_process_time": 29.874516766348165,
+                    "locked": true,
+                    "release_time": 2520,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 106.91536127362104,
+                    "intersection_process_time": 30.78081982719979
+                },
+                "M23": {
+                    "idx": "M23",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "A1",
+                        27,
+                        3
+                    ],
+                    "yard_crane_process_time": 26.60030487371105,
+                    "locked": true,
+                    "release_time": 2640,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 141.72676108821807,
+                    "intersection_process_time": 34.012887823037815
+                },
+                "M24": {
+                    "idx": "M24",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "B3",
+                        12,
+                        4
+                    ],
+                    "yard_crane_process_time": 33.28037718998398,
+                    "locked": true,
+                    "release_time": 2760,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 109.8908411494652,
+                    "intersection_process_time": 22.911547298236805
+                },
+                "M25": {
+                    "idx": "M25",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "B1",
+                        0,
+                        1
+                    ],
+                    "yard_crane_process_time": 31.254605073975277,
+                    "locked": true,
+                    "release_time": 2880,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 129.25526893251353,
+                    "intersection_process_time": 57.397153042161094
+                },
+                "M26": {
+                    "idx": "M26",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "B1",
+                        0,
+                        7
+                    ],
+                    "yard_crane_process_time": 33.702528932929624,
+                    "locked": true,
+                    "release_time": 3000,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 122.35033394028927,
+                    "intersection_process_time": 40.63788279490183
+                },
+                "M27": {
+                    "idx": "M27",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "A1",
+                        16,
+                        4
+                    ],
+                    "yard_crane_process_time": 27.59896273943605,
+                    "locked": true,
+                    "release_time": 3120,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 124.64400635836805,
+                    "intersection_process_time": 22.773847322453776
+                },
+                "M28": {
+                    "idx": "M28",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "A1",
+                        28,
+                        5
+                    ],
+                    "yard_crane_process_time": 33.707621451997284,
+                    "locked": true,
+                    "release_time": 3240,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 114.75138771453925,
+                    "intersection_process_time": 52.39227747488725
+                },
+                "M29": {
+                    "idx": "M29",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "A2",
+                        24,
+                        1
+                    ],
+                    "yard_crane_process_time": 29.551820701308692,
+                    "locked": true,
+                    "release_time": 3360,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 100.67866432239174,
+                    "intersection_process_time": 33.22173907758948
+                },
+                "M30": {
+                    "idx": "M30",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "B1",
+                        28,
+                        1
+                    ],
+                    "yard_crane_process_time": 25.4670145888248,
+                    "locked": true,
+                    "release_time": 3480,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 99.75939994374382,
+                    "intersection_process_time": 47.60950866515761
+                },
+                "M31": {
+                    "idx": "M31",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "B3",
+                        6,
+                        5
+                    ],
+                    "yard_crane_process_time": 30.050955252650237,
+                    "locked": true,
+                    "release_time": 3600,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 146.5706419090628,
+                    "intersection_process_time": 24.163973963627797
+                },
+                "M32": {
+                    "idx": "M32",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "B3",
+                        20,
+                        4
+                    ],
+                    "yard_crane_process_time": 32.9272893248015,
+                    "locked": true,
+                    "release_time": 3720,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 111.80617928504468,
+                    "intersection_process_time": 32.91635369962442
+                },
+                "M33": {
+                    "idx": "M33",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "A2",
+                        29,
+                        7
+                    ],
+                    "yard_crane_process_time": 31.338654575639133,
+                    "locked": true,
+                    "release_time": 3840,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 129.92297823879625,
+                    "intersection_process_time": 41.42696272423494
+                },
+                "M34": {
+                    "idx": "M34",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "A1",
+                        20,
+                        5
+                    ],
+                    "yard_crane_process_time": 30.15450110100762,
+                    "locked": true,
+                    "release_time": 3960,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 147.07299646957154,
+                    "intersection_process_time": 56.33434077898179
+                },
+                "M35": {
+                    "idx": "M35",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "B1",
+                        26,
+                        1
+                    ],
+                    "yard_crane_process_time": 27.939806306165053,
+                    "locked": true,
+                    "release_time": 4080,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 111.59008810680993,
+                    "intersection_process_time": 50.76196960694652
+                },
+                "M36": {
+                    "idx": "M36",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "A1",
+                        12,
+                        7
+                    ],
+                    "yard_crane_process_time": 30.419181789490928,
+                    "locked": true,
+                    "release_time": 4200,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 148.2905879617515,
+                    "intersection_process_time": 45.2641202015172
+                },
+                "M37": {
+                    "idx": "M37",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "B3",
+                        16,
+                        5
+                    ],
+                    "yard_crane_process_time": 30.33574719643013,
+                    "locked": true,
+                    "release_time": 4320,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 95.68286915766636,
+                    "intersection_process_time": 30.25931337081338
+                },
+                "M38": {
+                    "idx": "M38",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "A2",
+                        26,
+                        5
+                    ],
+                    "yard_crane_process_time": 26.585984844706047,
+                    "locked": true,
+                    "release_time": 4440,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 91.031479193278,
+                    "intersection_process_time": 27.630275247281443
+                },
+                "M39": {
+                    "idx": "M39",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "A1",
+                        28,
+                        2
+                    ],
+                    "yard_crane_process_time": 28.355921337960176,
+                    "locked": true,
+                    "release_time": 4560,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 136.64669398178364,
+                    "intersection_process_time": 30.323437891350203
+                },
+                "M40": {
+                    "idx": "M40",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "A1",
+                        2,
+                        3
+                    ],
+                    "yard_crane_process_time": 30.75395183632373,
+                    "locked": true,
+                    "release_time": 4680,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 143.84683921652336,
+                    "intersection_process_time": 27.039095212492448
+                },
+                "M41": {
+                    "idx": "M41",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "A1",
+                        26,
+                        0
+                    ],
+                    "yard_crane_process_time": 33.2985954688814,
+                    "locked": true,
+                    "release_time": 4800,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 144.60042319689975,
+                    "intersection_process_time": 37.35577574576666
+                },
+                "M42": {
+                    "idx": "M42",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "A1",
+                        19,
+                        2
+                    ],
+                    "yard_crane_process_time": 29.68127391933101,
+                    "locked": true,
+                    "release_time": 4920,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 131.22560259875974,
+                    "intersection_process_time": 55.031940864320404
+                },
+                "M43": {
+                    "idx": "M43",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "B1",
+                        4,
+                        3
+                    ],
+                    "yard_crane_process_time": 33.88725918185389,
+                    "locked": true,
+                    "release_time": 5040,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 133.78742283537076,
+                    "intersection_process_time": 48.22958551964772
+                },
+                "M44": {
+                    "idx": "M44",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "B1",
+                        27,
+                        5
+                    ],
+                    "yard_crane_process_time": 30.345351311600606,
+                    "locked": true,
+                    "release_time": 5160,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 123.48503595366122,
+                    "intersection_process_time": 41.418642464792015
+                },
+                "M45": {
+                    "idx": "M45",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "A1",
+                        5,
+                        3
+                    ],
+                    "yard_crane_process_time": 33.741863643213236,
+                    "locked": true,
+                    "release_time": 5280,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 144.68889698791673,
+                    "intersection_process_time": 55.308533373603254
+                },
+                "M46": {
+                    "idx": "M46",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "B3",
+                        14,
+                        5
+                    ],
+                    "yard_crane_process_time": 32.708605674407984,
+                    "locked": true,
+                    "release_time": 5400,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 143.2240355333297,
+                    "intersection_process_time": 30.912307184777834
+                },
+                "M47": {
+                    "idx": "M47",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "A2",
+                        7,
+                        1
+                    ],
+                    "yard_crane_process_time": 25.969992210115617,
+                    "locked": true,
+                    "release_time": 5520,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 130.63409697479995,
+                    "intersection_process_time": 48.09992873336978
+                },
+                "M48": {
+                    "idx": "M48",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "B1",
+                        11,
+                        5
+                    ],
+                    "yard_crane_process_time": 34.39190511366016,
+                    "locked": true,
+                    "release_time": 5640,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 93.9435275866744,
+                    "intersection_process_time": 30.967009543863057
+                },
+                "M49": {
+                    "idx": "M49",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "A2",
+                        12,
+                        5
+                    ],
+                    "yard_crane_process_time": 32.85828920025575,
+                    "locked": true,
+                    "release_time": 5760,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 133.3079645171997,
+                    "intersection_process_time": 58.0702861365537
+                },
+                "M50": {
+                    "idx": "M50",
+                    "quay_crane_id": "QC1",
+                    "yard_block_loc": [
+                        "A1",
+                        20,
+                        0
+                    ],
+                    "yard_crane_process_time": 33.429191692690864,
+                    "locked": true,
+                    "release_time": 5880,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 100.34024013136958,
+                    "intersection_process_time": 28.940006332220285
+                }
+            },
+            "location": [
+                320,
+                0
+            ]
+        },
+        {
+            "idx": "QC2",
+            "missions": {
+                "M51": {
+                    "idx": "M51",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "A1",
+                        16,
+                        4
+                    ],
+                    "yard_crane_process_time": 33.29302206866228,
+                    "locked": true,
+                    "release_time": 0,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 100.15584358947471,
+                    "intersection_process_time": 28.078999991119026
+                },
+                "M52": {
+                    "idx": "M52",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "A1",
+                        11,
+                        0
+                    ],
+                    "yard_crane_process_time": 29.417072400644603,
+                    "locked": true,
+                    "release_time": 120,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 100.60070885570453,
+                    "intersection_process_time": 25.9050206875709
+                },
+                "M53": {
+                    "idx": "M53",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "B3",
+                        5,
+                        6
+                    ],
+                    "yard_crane_process_time": 31.410818438189246,
+                    "locked": true,
+                    "release_time": 240,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 110.84085655721687,
+                    "intersection_process_time": 40.70845775810656
+                },
+                "M54": {
+                    "idx": "M54",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "A2",
+                        2,
+                        4
+                    ],
+                    "yard_crane_process_time": 33.23384053979338,
+                    "locked": true,
+                    "release_time": 360,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 102.89855265486635,
+                    "intersection_process_time": 33.418056155162205
+                },
+                "M55": {
+                    "idx": "M55",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "B3",
+                        29,
+                        0
+                    ],
+                    "yard_crane_process_time": 34.85707186930667,
+                    "locked": true,
+                    "release_time": 480,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 126.3324808320718,
+                    "intersection_process_time": 43.33426233964923
+                },
+                "M56": {
+                    "idx": "M56",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "A2",
+                        9,
+                        4
+                    ],
+                    "yard_crane_process_time": 25.51918159946429,
+                    "locked": true,
+                    "release_time": 600,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 146.45632265581736,
+                    "intersection_process_time": 21.17284728995144
+                },
+                "M57": {
+                    "idx": "M57",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "B1",
+                        2,
+                        3
+                    ],
+                    "yard_crane_process_time": 25.559120731829058,
+                    "locked": true,
+                    "release_time": 720,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 97.90811031602728,
+                    "intersection_process_time": 28.34318185072092
+                },
+                "M58": {
+                    "idx": "M58",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "A2",
+                        18,
+                        2
+                    ],
+                    "yard_crane_process_time": 27.285050658862435,
+                    "locked": true,
+                    "release_time": 840,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 105.35298074068332,
+                    "intersection_process_time": 52.69884476028926
+                },
+                "M59": {
+                    "idx": "M59",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "A2",
+                        21,
+                        6
+                    ],
+                    "yard_crane_process_time": 27.210017112363467,
+                    "locked": true,
+                    "release_time": 960,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 122.43511817982221,
+                    "intersection_process_time": 38.74863554194916
+                },
+                "M60": {
+                    "idx": "M60",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "B3",
+                        5,
+                        5
+                    ],
+                    "yard_crane_process_time": 25.494611500989333,
+                    "locked": true,
+                    "release_time": 1080,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 148.6742713092164,
+                    "intersection_process_time": 45.19413918575248
+                },
+                "M61": {
+                    "idx": "M61",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "A1",
+                        5,
+                        3
+                    ],
+                    "yard_crane_process_time": 27.16143976350181,
+                    "locked": true,
+                    "release_time": 1200,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 120.16490919315098,
+                    "intersection_process_time": 46.775698555591596
+                },
+                "M62": {
+                    "idx": "M62",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "A2",
+                        15,
+                        0
+                    ],
+                    "yard_crane_process_time": 31.05025060051762,
+                    "locked": true,
+                    "release_time": 1320,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 108.69390091464822,
+                    "intersection_process_time": 59.66030861255525
+                },
+                "M63": {
+                    "idx": "M63",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "A2",
+                        29,
+                        4
+                    ],
+                    "yard_crane_process_time": 34.743091247382694,
+                    "locked": true,
+                    "release_time": 1440,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 101.36374695075848,
+                    "intersection_process_time": 35.95116508614416
+                },
+                "M64": {
+                    "idx": "M64",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "B1",
+                        10,
+                        7
+                    ],
+                    "yard_crane_process_time": 26.67248569838813,
+                    "locked": true,
+                    "release_time": 1560,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 92.43493170343069,
+                    "intersection_process_time": 52.59926808730856
+                },
+                "M65": {
+                    "idx": "M65",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "A2",
+                        4,
+                        5
+                    ],
+                    "yard_crane_process_time": 29.29835692150288,
+                    "locked": true,
+                    "release_time": 1680,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 148.84424924297247,
+                    "intersection_process_time": 25.074091694407485
+                },
+                "M66": {
+                    "idx": "M66",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "B3",
+                        28,
+                        0
+                    ],
+                    "yard_crane_process_time": 29.833411728738927,
+                    "locked": true,
+                    "release_time": 1800,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 99.07924381710212,
+                    "intersection_process_time": 54.46149892037213
+                },
+                "M67": {
+                    "idx": "M67",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "B1",
+                        26,
+                        3
+                    ],
+                    "yard_crane_process_time": 34.631593633006126,
+                    "locked": true,
+                    "release_time": 1920,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 116.64387720219105,
+                    "intersection_process_time": 44.28751223821871
+                },
+                "M68": {
+                    "idx": "M68",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "A1",
+                        1,
+                        5
+                    ],
+                    "yard_crane_process_time": 31.809294315655578,
+                    "locked": true,
+                    "release_time": 2040,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 129.3239613121321,
+                    "intersection_process_time": 54.3241934714238
+                },
+                "M69": {
+                    "idx": "M69",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "A1",
+                        28,
+                        0
+                    ],
+                    "yard_crane_process_time": 34.32207346612826,
+                    "locked": true,
+                    "release_time": 2160,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 96.57826117912866,
+                    "intersection_process_time": 30.995809449217376
+                },
+                "M70": {
+                    "idx": "M70",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "B3",
+                        12,
+                        7
+                    ],
+                    "yard_crane_process_time": 31.06018519475962,
+                    "locked": true,
+                    "release_time": 2280,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 118.82839688584687,
+                    "intersection_process_time": 52.33733110401951
+                },
+                "M71": {
+                    "idx": "M71",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "B3",
+                        1,
+                        6
+                    ],
+                    "yard_crane_process_time": 29.001464701459213,
+                    "locked": true,
+                    "release_time": 2400,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 149.37009497500858,
+                    "intersection_process_time": 41.70364178233913
+                },
+                "M72": {
+                    "idx": "M72",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "B3",
+                        3,
+                        2
+                    ],
+                    "yard_crane_process_time": 32.573183702673305,
+                    "locked": true,
+                    "release_time": 2520,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 140.13309928671305,
+                    "intersection_process_time": 38.82502064913906
+                },
+                "M73": {
+                    "idx": "M73",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "B1",
+                        3,
+                        0
+                    ],
+                    "yard_crane_process_time": 31.001540997854285,
+                    "locked": true,
+                    "release_time": 2640,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 103.62739764100782,
+                    "intersection_process_time": 34.48460688978964
+                },
+                "M74": {
+                    "idx": "M74",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "A1",
+                        16,
+                        2
+                    ],
+                    "yard_crane_process_time": 30.34862983166297,
+                    "locked": true,
+                    "release_time": 2760,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 101.12743856495403,
+                    "intersection_process_time": 46.14094709201208
+                },
+                "M75": {
+                    "idx": "M75",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "A2",
+                        29,
+                        7
+                    ],
+                    "yard_crane_process_time": 31.854968776316614,
+                    "locked": true,
+                    "release_time": 2880,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 139.4485905913675,
+                    "intersection_process_time": 51.59366356127876
+                },
+                "M76": {
+                    "idx": "M76",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "B1",
+                        23,
+                        4
+                    ],
+                    "yard_crane_process_time": 27.19578571625709,
+                    "locked": true,
+                    "release_time": 3000,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 140.20749113979886,
+                    "intersection_process_time": 32.4154257404168
+                },
+                "M77": {
+                    "idx": "M77",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "A2",
+                        15,
+                        7
+                    ],
+                    "yard_crane_process_time": 34.18065869620057,
+                    "locked": true,
+                    "release_time": 3120,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 95.89912181884921,
+                    "intersection_process_time": 45.05460117395323
+                },
+                "M78": {
+                    "idx": "M78",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "B1",
+                        6,
+                        0
+                    ],
+                    "yard_crane_process_time": 25.085243480549856,
+                    "locked": true,
+                    "release_time": 3240,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 147.5965830481773,
+                    "intersection_process_time": 50.95990786291924
+                },
+                "M79": {
+                    "idx": "M79",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "A1",
+                        7,
+                        1
+                    ],
+                    "yard_crane_process_time": 34.932891158526616,
+                    "locked": true,
+                    "release_time": 3360,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 95.93191737644271,
+                    "intersection_process_time": 52.83230815411051
+                },
+                "M80": {
+                    "idx": "M80",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "B1",
+                        22,
+                        4
+                    ],
+                    "yard_crane_process_time": 26.04772087011671,
+                    "locked": true,
+                    "release_time": 3480,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 93.94781862188859,
+                    "intersection_process_time": 23.412652415941473
+                },
+                "M81": {
+                    "idx": "M81",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "A2",
+                        0,
+                        3
+                    ],
+                    "yard_crane_process_time": 28.94868495092894,
+                    "locked": true,
+                    "release_time": 3600,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 99.70641244000953,
+                    "intersection_process_time": 50.81390871373505
+                },
+                "M82": {
+                    "idx": "M82",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "B1",
+                        6,
+                        1
+                    ],
+                    "yard_crane_process_time": 33.24764939546075,
+                    "locked": true,
+                    "release_time": 3720,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 101.39344880796511,
+                    "intersection_process_time": 33.363006124515856
+                },
+                "M83": {
+                    "idx": "M83",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "A1",
+                        27,
+                        4
+                    ],
+                    "yard_crane_process_time": 29.720729958573322,
+                    "locked": true,
+                    "release_time": 3840,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 99.95163328089097,
+                    "intersection_process_time": 50.16885405683775
+                },
+                "M84": {
+                    "idx": "M84",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "A1",
+                        16,
+                        3
+                    ],
+                    "yard_crane_process_time": 25.74946269748134,
+                    "locked": true,
+                    "release_time": 3960,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 96.67215752836563,
+                    "intersection_process_time": 55.71164997939165
+                },
+                "M85": {
+                    "idx": "M85",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "A2",
+                        2,
+                        4
+                    ],
+                    "yard_crane_process_time": 32.123644434657024,
+                    "locked": true,
+                    "release_time": 4080,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 112.98130327553602,
+                    "intersection_process_time": 42.85670903135326
+                },
+                "M86": {
+                    "idx": "M86",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "A1",
+                        24,
+                        5
+                    ],
+                    "yard_crane_process_time": 25.998511439322893,
+                    "locked": true,
+                    "release_time": 4200,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 113.60075162101407,
+                    "intersection_process_time": 25.692491509385892
+                },
+                "M87": {
+                    "idx": "M87",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "B1",
+                        0,
+                        1
+                    ],
+                    "yard_crane_process_time": 28.795664214391078,
+                    "locked": true,
+                    "release_time": 4320,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 122.62684493312447,
+                    "intersection_process_time": 50.3988365379202
+                },
+                "M88": {
+                    "idx": "M88",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "B1",
+                        15,
+                        1
+                    ],
+                    "yard_crane_process_time": 25.503261400364384,
+                    "locked": true,
+                    "release_time": 4440,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 139.5395461425614,
+                    "intersection_process_time": 27.386970634556462
+                },
+                "M89": {
+                    "idx": "M89",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "A1",
+                        21,
+                        4
+                    ],
+                    "yard_crane_process_time": 28.643617008525005,
+                    "locked": true,
+                    "release_time": 4560,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 135.87666764354955,
+                    "intersection_process_time": 25.99533203891168
+                },
+                "M90": {
+                    "idx": "M90",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "B3",
+                        19,
+                        0
+                    ],
+                    "yard_crane_process_time": 33.729260496304725,
+                    "locked": true,
+                    "release_time": 4680,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 132.97105832261892,
+                    "intersection_process_time": 24.5209855503527
+                },
+                "M91": {
+                    "idx": "M91",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "A2",
+                        5,
+                        6
+                    ],
+                    "yard_crane_process_time": 27.382913447966693,
+                    "locked": true,
+                    "release_time": 4800,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 144.80286894768,
+                    "intersection_process_time": 39.435362324582336
+                },
+                "M92": {
+                    "idx": "M92",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "A1",
+                        11,
+                        7
+                    ],
+                    "yard_crane_process_time": 28.485568685958448,
+                    "locked": true,
+                    "release_time": 4920,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 102.28433650457129,
+                    "intersection_process_time": 54.67962820160893
+                },
+                "M93": {
+                    "idx": "M93",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "B3",
+                        2,
+                        2
+                    ],
+                    "yard_crane_process_time": 34.6724400106624,
+                    "locked": true,
+                    "release_time": 5040,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 124.9206480853847,
+                    "intersection_process_time": 22.355046507113624
+                },
+                "M94": {
+                    "idx": "M94",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "A2",
+                        26,
+                        5
+                    ],
+                    "yard_crane_process_time": 34.01413298958728,
+                    "locked": true,
+                    "release_time": 5160,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 95.10988418231778,
+                    "intersection_process_time": 48.78882554361473
+                },
+                "M95": {
+                    "idx": "M95",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "A2",
+                        14,
+                        4
+                    ],
+                    "yard_crane_process_time": 31.997554394788942,
+                    "locked": true,
+                    "release_time": 5280,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 104.10526230141048,
+                    "intersection_process_time": 50.75017461816307
+                },
+                "M96": {
+                    "idx": "M96",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "A2",
+                        17,
+                        3
+                    ],
+                    "yard_crane_process_time": 25.324401904173303,
+                    "locked": true,
+                    "release_time": 5400,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 118.88481194855596,
+                    "intersection_process_time": 31.79531553792113
+                },
+                "M97": {
+                    "idx": "M97",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "A2",
+                        27,
+                        3
+                    ],
+                    "yard_crane_process_time": 28.133467460959622,
+                    "locked": true,
+                    "release_time": 5520,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 106.37421847489284,
+                    "intersection_process_time": 51.98970027866146
+                },
+                "M98": {
+                    "idx": "M98",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "A2",
+                        11,
+                        0
+                    ],
+                    "yard_crane_process_time": 27.009535038872404,
+                    "locked": true,
+                    "release_time": 5640,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 130.21393195022398,
+                    "intersection_process_time": 54.1250036145176
+                },
+                "M99": {
+                    "idx": "M99",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "A2",
+                        5,
+                        1
+                    ],
+                    "yard_crane_process_time": 27.051070976475863,
+                    "locked": true,
+                    "release_time": 5760,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 116.0257527183503,
+                    "intersection_process_time": 45.681799497800974
+                },
+                "M100": {
+                    "idx": "M100",
+                    "quay_crane_id": "QC2",
+                    "yard_block_loc": [
+                        "A1",
+                        13,
+                        2
+                    ],
+                    "yard_crane_process_time": 31.632223884603206,
+                    "locked": true,
+                    "release_time": 5880,
+                    "vehicle_speed": 1.435,
+                    "station_process_time": 129.30448899877777,
+                    "intersection_process_time": 48.54331233163132
+                }
+            },
+            "location": [
+                365,
+                0
+            ]
+        }
+    ],
+    "buffers": [
+        {
+            "idx": "BF1",
+            "location": [
+                320,
+                0
+            ],
+            "handling_time": 60,
+            "capacity": 5
+        },
+        {
+            "idx": "BF2",
+            "location": [
+                365,
+                0
+            ],
+            "handling_time": 60,
+            "capacity": 5
+        }
+    ],
+    "lock_stations": [
+        {
+            "idx": "S1",
+            "location": [
+                180,
+                64
+            ],
+            "capacity": 5,
+            "handling_time": 95.01612996326867,
+            "lock_station_buffers": {
+                "LS11": {
+                    "idx": "LS1",
+                    "location": [
+                        30,
+                        69
+                    ],
+                    "lock_station_idx": "S1",
+                    "wait_time_delay": 0
+                },
+                "LS12": {
+                    "idx": "LS2",
+                    "location": [
+                        30,
+                        74
+                    ],
+                    "lock_station_idx": "S1",
+                    "wait_time_delay": 0
+                },
+                "LS13": {
+                    "idx": "LS3",
+                    "location": [
+                        30,
+                        79
+                    ],
+                    "lock_station_idx": "S1",
+                    "wait_time_delay": 0
+                },
+                "LS14": {
+                    "idx": "LS4",
+                    "location": [
+                        30,
+                        84
+                    ],
+                    "lock_station_idx": "S1",
+                    "wait_time_delay": 0
+                }
+            }
+        },
+        {
+            "idx": "S2",
+            "location": [
+                330,
+                64
+            ],
+            "capacity": 5,
+            "handling_time": 138.06491147929077,
+            "lock_station_buffers": {
+                "LS21": {
+                    "idx": "LS1",
+                    "location": [
+                        180,
+                        69
+                    ],
+                    "lock_station_idx": "S2",
+                    "wait_time_delay": 0
+                },
+                "LS22": {
+                    "idx": "LS2",
+                    "location": [
+                        180,
+                        74
+                    ],
+                    "lock_station_idx": "S2",
+                    "wait_time_delay": 0
+                },
+                "LS23": {
+                    "idx": "LS3",
+                    "location": [
+                        180,
+                        79
+                    ],
+                    "lock_station_idx": "S2",
+                    "wait_time_delay": 0
+                },
+                "LS24": {
+                    "idx": "LS4",
+                    "location": [
+                        180,
+                        84
+                    ],
+                    "lock_station_idx": "S2",
+                    "wait_time_delay": 0
+                }
+            }
+        }
+    ],
+    "crossovers": [
+        {
+            "idx": "CO1",
+            "location": [
+                225.0,
+                116.0
+            ],
+            "yard_block_list": [
+                "A1",
+                "A2",
+                "A3",
+                "A4"
+            ]
+        },
+        {
+            "idx": "CO2",
+            "location": [
+                460.0,
+                116.0
+            ],
+            "yard_block_list": [
+                "B1",
+                "B2",
+                "B3",
+                "B4"
+            ]
+        }
+    ],
+    "yard_blocks": [
+        {
+            "idx": "A1",
+            "block_location": [
+                20,
+                128
+            ]
+        },
+        {
+            "idx": "A2",
+            "block_location": [
+                20.0,
+                159.52
+            ]
+        },
+        {
+            "idx": "A3",
+            "block_location": [
+                20.0,
+                191.04
+            ]
+        },
+        {
+            "idx": "A4",
+            "block_location": [
+                20.0,
+                222.56
+            ]
+        },
+        {
+            "idx": "B1",
+            "block_location": [
+                255.0,
+                128.0
+            ]
+        },
+        {
+            "idx": "B2",
+            "block_location": [
+                255.0,
+                159.52
+            ]
+        },
+        {
+            "idx": "B3",
+            "block_location": [
+                255.0,
+                191.04
+            ]
+        },
+        {
+            "idx": "B4",
+            "block_location": [
+                255.0,
+                222.56
+            ]
+        },
+        {
+            "idx": "C1",
+            "block_location": [
+                490.0,
+                128.0
+            ]
+        },
+        {
+            "idx": "C2",
+            "block_location": [
+                490.0,
+                159.52
+            ]
+        },
+        {
+            "idx": "C3",
+            "block_location": [
+                490.0,
+                191.04
+            ]
+        },
+        {
+            "idx": "C4",
+            "block_location": [
+                490.0,
+                222.56
+            ]
+        }
+    ],
+    "yard_cranes": [
+        {
+            "idx": "YCA1",
+            "block_id": "YCA1",
+            "location": [
+                0,
+                8
+            ],
+            "x_move_rate": 2.17,
+            "y_move_rate": 1.8,
+            "handling_time": 29.97907521324954
+        },
+        {
+            "idx": "YCA2",
+            "block_id": "YCA2",
+            "location": [
+                0,
+                8
+            ],
+            "x_move_rate": 2.17,
+            "y_move_rate": 1.8,
+            "handling_time": 29.68985685158616
+        },
+        {
+            "idx": "YCA3",
+            "block_id": "YCA3",
+            "location": [
+                0,
+                8
+            ],
+            "x_move_rate": 2.17,
+            "y_move_rate": 1.8,
+            "handling_time": 29.337774322145876
+        },
+        {
+            "idx": "YCA4",
+            "block_id": "YCA4",
+            "location": [
+                0,
+                8
+            ],
+            "x_move_rate": 2.17,
+            "y_move_rate": 1.8,
+            "handling_time": 25.363548628296748
+        },
+        {
+            "idx": "YCB1",
+            "block_id": "YCB1",
+            "location": [
+                0,
+                8
+            ],
+            "x_move_rate": 2.17,
+            "y_move_rate": 1.8,
+            "handling_time": 29.64238211796127
+        },
+        {
+            "idx": "YCB2",
+            "block_id": "YCB2",
+            "location": [
+                0,
+                8
+            ],
+            "x_move_rate": 2.17,
+            "y_move_rate": 1.8,
+            "handling_time": 27.41144894373455
+        },
+        {
+            "idx": "YCB3",
+            "block_id": "YCB3",
+            "location": [
+                0,
+                8
+            ],
+            "x_move_rate": 2.17,
+            "y_move_rate": 1.8,
+            "handling_time": 26.438283436610394
+        },
+        {
+            "idx": "YCB4",
+            "block_id": "YCB4",
+            "location": [
+                0,
+                8
+            ],
+            "x_move_rate": 2.17,
+            "y_move_rate": 1.8,
+            "handling_time": 29.809391680417214
+        },
+        {
+            "idx": "YCC1",
+            "block_id": "YCC1",
+            "location": [
+                0,
+                8
+            ],
+            "x_move_rate": 2.17,
+            "y_move_rate": 1.8,
+            "handling_time": 27.3969075385256
+        },
+        {
+            "idx": "YCC2",
+            "block_id": "YCC2",
+            "location": [
+                0,
+                8
+            ],
+            "x_move_rate": 2.17,
+            "y_move_rate": 1.8,
+            "handling_time": 33.05035119437621
+        },
+        {
+            "idx": "YCC3",
+            "block_id": "YCC3",
+            "location": [
+                0,
+                8
+            ],
+            "x_move_rate": 2.17,
+            "y_move_rate": 1.8,
+            "handling_time": 30.183504564473623
+        },
+        {
+            "idx": "YCC4",
+            "block_id": "YCC4",
+            "location": [
+                0,
+                8
+            ],
+            "x_move_rate": 2.17,
+            "y_move_rate": 1.8,
+            "handling_time": 26.913820170343794
+        }
+    ]
+}
