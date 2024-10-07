@@ -15,11 +15,9 @@ This repository contains the implementation of the code for the paper titled *"A
 1. Clone the repository:
    ```bash
    git clone <repository_url>
-   ```
-2. Install the required Python packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
+2. Configure the environment and settings by editing files in the `conf/` directory.
 
-3. Configure the environment and settings by editing files in the `conf/` directory.
 
+## Output
+
+The results will be saved in the "output" folder.
